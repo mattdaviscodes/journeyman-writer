@@ -14,7 +14,7 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://www.example.com/podcast-icon.jpg" />
-<itunes:category text="Category Name"></itunes:category>
+<itunes:category text="Category Name" />
 <item>
     <title>Ep. 1 - Introductions</title>
     <itunes:summary>Description of podcast episode content</itunes:summary>
